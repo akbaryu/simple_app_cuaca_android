@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCuaca</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="gambarCuaca">gambarCuaca</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="location">Lokasi</string>
+    <string name="country">Negara (country)</string>
+    <string name="temperature">Suhu (temperature)</string>
+    <string name="humidity">Kelembaban (humidity)</string>
+    <string name="pressure">Tekanan (pressure)</string>
+    <string name="weather">Lihat Cuaca</string>
+</resources>
